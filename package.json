@@ -2,7 +2,7 @@
 	"author":"dheeraj",
 	"description": "This project is for Learning nodejs",
 	"name": "fcc-learn-npm-package-json",
-	"keywords":["learn","nodejs","backend"],
+	"keywords":["learn","nodejs","backend","freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
